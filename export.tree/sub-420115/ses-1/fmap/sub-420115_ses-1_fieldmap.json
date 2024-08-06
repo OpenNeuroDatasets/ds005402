@@ -1,0 +1,46 @@
+{
+    "Manufacturer": "Bruker BioSpin MRI GmbH",
+    "ManufacturersModelName": "BioSpec 117/16",
+    "DeviceSerialNumber": "NT010408",
+    "SoftwareVersion": "6.0.1",
+    "MagneticFieldStrength": 11.750704147001997,
+    "MatrixCoilMode": "SingleExperiment",
+    "PulseSequenceType": "FieldMap.ppg",
+    "ScanningSequence": "Bruker:FieldMap",
+    "SequenceVariant": "Both",
+    "ScanOptions": {
+        "RG": "No",
+        "CG": "No",
+        "PFF": 1,
+        "PFP": 1,
+        "FC": "FlowNone",
+        "SP": "Off",
+        "FP": "NoSuppression"
+    },
+    "SequenceName": "B0Map-ADJ_B0MAP",
+    "PulseSequenceDetails": "5_fmri_single",
+    "NonlinearGradientCorrection": "RectilinearTraversal",
+    "NumberShots": 1,
+    "ParallelReductionFactorInPlane": 1,
+    "PartialFourier": [
+        1,
+        1,
+        1
+    ],
+    "PhaseEncodingDirection": "i",
+    "EffectiveEchoSpacing": 8.399999999999989e-06,
+    "TotalReadoutTime": 0.0005375999999999993,
+    "EchoTime": "Value was not specified",
+    "SliceTiming": [
+        0.0,
+        0.02
+    ],
+    "SliceEncodingDirection": "k",
+    "DwellTime": 0.0005375999999999993,
+    "FlipAngle": 30,
+    "InstitutionName": "Radboudumc",
+    "Units": "H",
+    "IntendFor": [
+        "func/*_bold.nii.gz"
+    ]
+}
